@@ -40,3 +40,7 @@ G004.Caso completo
         Click Element     xpath=/html/body/div/div[1]/header/div[3]/div/div/div[1]/a/img
     END
     Close Browser
+
+G005.Caso de prueba
+    Open Browser https:www.google.com.ar    Firefox
+    Close Browser
